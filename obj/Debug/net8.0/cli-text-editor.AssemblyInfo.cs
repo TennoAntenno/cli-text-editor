@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cli-text-editor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d748607660c613d62debf894d6b9193c6cec66f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56dfb376c06cc58aadd3e187c84ad8692d5c6806")]
 [assembly: System.Reflection.AssemblyProductAttribute("cli-text-editor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cli-text-editor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
